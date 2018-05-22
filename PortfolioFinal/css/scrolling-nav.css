@@ -1,0 +1,156 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+	padding: 80px 0 20px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+body {
+	font-family: 'Oxygen', sans-serif;
+}
+
+section {
+  padding: 50px 0;
+}
+
+h4 {
+	color: #49a8c7;
+	font-weight: bold;
+}
+
+h5 {
+
+	color: #49a8c7;
+	font-weight: bold;
+
+}
+
+i {
+	color: #49a8c7;
+	font-size: 50px;
+	padding: 15px;
+}
+
+.header_top {
+	background-color: #49a8c7;
+	color: white;
+}
+
+#aboutContainer {
+	display: flex;
+	justify-content: space-around;
+}
+
+.about {
+	padding: 10px;
+	width: 30%;
+}
+
+#skillsContainer {
+	display: flex;
+	justify-content: space-around;
+}
+
+.skillDiv{
+	display: flex;
+	align-items: center;
+	padding: 3px;
+}
+
+.carousel-control-next:after
+{
+  content: '>';
+  font-size: 35px;
+  font-weight: 500;
+  color: #49a8c7;
+  margin: -50px;
+}
+
+.carousel-control-prev:after {
+  content: '<';
+  font-size: 35px;
+  font-weight: 500;
+  color: #49a8c7;
+}
+
+.projectContainer {
+	display: flex;
+
+}
+
+.project {
+	display: flex;
+	justify-content: space-between;
+}
+
+.projectDescription {
+	display: flex;
+	flex-direction: column;
+	align-self: center;
+	padding-right: 60px;
+}
+
+.projectImage{
+    border-color: #49a8c7;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 5px;
+}
+
+.projectButton {
+	background-color: #49a8c7;
+	color: white;
+	padding: 5px;
+	margin: 2px;
+}
+
+.carousel-control-next {
+    right: -150px;
+}
+
+.carousel-control-prev {
+    left: -150px;
+}
+
+#contactContainer {
+	display: flex;
+	width: 30%;
+	justify-content: space-around;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
