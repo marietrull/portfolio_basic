@@ -22,6 +22,14 @@ section {
   padding: 50px 0;
 }
 
+h1 {
+	font-size: 75px;
+}
+
+h2 {
+	font-size: 65px;
+}
+
 h4 {
 	color: #49a8c7;
 	font-weight: bold;
